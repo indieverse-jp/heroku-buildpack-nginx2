@@ -4,7 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [unreleased] - YYYY-MM-DD
+## [1.14] - 2025-02-22
+### Changes
+- Update Nginx to 1.9.4
+- Enable sub_filter module by adding --with-http_sub_module
 
 ## [1.13] - 2024-08-30
 ### Changes
